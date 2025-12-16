@@ -17,7 +17,7 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
     <table cellspacing="20">
         <tr>
             <td><img src="sun.jpg"></td>
-            <a href="pdf/ABAP KEYWORD'S .pdf.pdf"><font size="4">[Document]</font></a>
+            <a href="pdf/ABAP KEYWORD'S pdf"><font size="4">[Document]</font></a>
             <td>
                 <h1>sudheer chowdari kodali</h1>
                 <p><em><strong></strong>Embedded systems and PCB, RTL Design <!--<a
